@@ -1,3 +1,8 @@
+"KINDLY DOWNLOAD AND OPEN THROUGH VSCODE TO VIEW THE 'emotionshiftdetector.ipynb' file. "
+
+
+
+
 Emotion Shift Detection using RoBERTa
 
 This project detects emotions in text and shows how emotions change across sentences in a paragraph. The model used is roberta-base-go_emotions, a pretrained RoBERTa model trained on the GoEmotions dataset.
